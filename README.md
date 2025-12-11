@@ -55,7 +55,7 @@ Nous avons implémenté un pipeline complet qui :
 
 ### 1. Cloner le projet
 ```bash
-git clone [[https://github.com/VOTRE_NOM_UTILISATEUR/NOM_DU_REPO.git](https://github.com/YoussefAIDT/XAI-LIME-pour-Texte)]
+git clone [(https://github.com/YoussefAIDT/XAI-LIME-pour-Texte)]
 cd XAI-LIME-pour-Texte
 ````
 
