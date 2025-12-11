@@ -72,7 +72,7 @@ pip install -q transformers datasets lime torch scikit-learn matplotlib
 Le cœur du projet se trouve dans le fichier Jupyter Notebook. Lancez-le via :
 
 ```bash
-jupyter notebook mini_projet_lime_texte.ipynb
+jupyter notebook XAI-LIME-pour-Texte.ipynb
 ```
 
 *Note : Ce projet est également optimisé pour s'exécuter directement sur Google Colab.*
